@@ -127,7 +127,7 @@ After opening your notebook, you'll need to select a language kernel of your cho
 	- select and answer a question from section 1 (e.g., either Q1.1 or Q1.2).
 	- select and answer a question from section 2 (e.g., either Q2.1, Q2.2, Q2.3, Q2.4, or Q2.5).
 
-This is you, _shining_. Think, Hack, Solve, Repeat. Enjoy this part. :)
+This is you, _shining_ :sparkles:. Think, Hack, Solve, Repeat. Do enjoy this part. :smile:
 
 
 ### 5. Commit results and push to your remote repo.
@@ -150,7 +150,7 @@ This is you, _shining_. Think, Hack, Solve, Repeat. Enjoy this part. :)
 
 ### 6. Open Pull Request to submit exam
 
-To submit, [please open a PR](https://help.github.com/articles/creating-a-pull-request/) to the `$DS_POSITION` branch of the repo.
+To submit, [please open a PR](https://help.github.com/articles/creating-a-pull-request/) to the `$DS_POSITION-submittals` branch (*note*: this is a different branch name) of the repo.
 
 
 ## Questions?
